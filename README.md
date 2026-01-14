@@ -1,3 +1,3 @@
 - bergen_merged.zip is the zipped csv files with the original data.
 - bergen_alt_script.R contains the R instruccions to create the aggrupation of data.
-- elevation.R contains the elevation data obtained through the google api
+- elevation.csv contains the elevation data obtained through the google api
